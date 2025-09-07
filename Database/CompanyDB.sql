@@ -21,7 +21,7 @@ CREATE TABLE Clients (
 
 -- Staff
 INSERT INTO Staff (Name, Role, Contact) VALUES
-('Merritt Johnson', 'Manager', 'merritt@company.com'),
+('Merritt Mason', 'Manager', 'merritt@company.com'),
 ('Nate Kiflemariam', 'Developer', 'nate@company.com');
 
 
