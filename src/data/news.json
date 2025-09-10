@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "2025-03-15-spring-fundraiser",
+      "title": "Spring Fundraiser Exceeds Goal",
+      "date": "2025-03-15",
+      "tags": ["fundraiser", "events"],
+      "excerpt": "Our community helped us surpass our goal of $50,000 for this year's spring fundraising campaign.",
+      "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "bodyMarkdown": "# Spring Fundraiser Success\n\nWe are thrilled to announce that our Spring Fundraiser has exceeded all expectations! Thanks to the incredible generosity of our community, we raised over $65,000 - surpassing our goal by 30%.\n\n## Impact\n\nThis funding will directly support:\n- Construction of 2 additional homes this year\n- Volunteer training programs\n- Tool and equipment upgrades\n\n## Thank You\n\nWe extend our heartfelt gratitude to all donors, volunteers, and community partners who made this success possible.",
+      "author": "Habitat Rowan"
+    },
+    {
+      "id": "2025-02-28-volunteer-appreciation",
+      "title": "Volunteer Appreciation Month",
+      "date": "2025-02-28",
+      "tags": ["volunteers", "appreciation"],
+      "excerpt": "Celebrating our amazing volunteers who donated over 2,000 hours in February alone.",
+      "image": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "bodyMarkdown": "# Celebrating Our Volunteers\n\nFebruary was Volunteer Appreciation Month, and we couldn't be more grateful for our incredible team of volunteers who continue to make our mission possible.\n\n## By the Numbers\n\n- **2,000+** volunteer hours in February\n- **150** active volunteers\n- **3** homes currently under construction\n\n## Special Recognition\n\nWe want to give special thanks to our regular volunteers who show up week after week, rain or shine, to help build homes and hope in our community.",
+      "author": "Habitat Rowan"
+    }
+  ]
+}
